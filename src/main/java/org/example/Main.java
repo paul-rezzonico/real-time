@@ -3,6 +3,8 @@ package org.example;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 
+import static java.lang.Thread.*;
+
 public class Main {
     public static void main(String[] args) {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:ss");
@@ -10,7 +12,7 @@ public class Main {
             LocalTime time = LocalTime.now();
             System.out.println("ACTUAL TIME: " + time.format(formatter));
             try {
-                Thread.sleep(1000);
+                sleep(1000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

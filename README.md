@@ -1,6 +1,8 @@
 # Real-Time Project
 
-This is the "Real-Time" project by Paul Rezzonico, a Java-based application. The project structure suggests a focus on Java development with a main application entry point.
+This is the "Real-Time" project, a Java-based application. The application is a simple real-time application that displays the current time. The application is built using Java and Maven.
+
+<img src="https://drive.google.com/uc?export=view&id=1ftgqaegFSdgj86hUJP0pATaG34S4d-Rs" width="280" >   
 
 ## Project Structure
 
