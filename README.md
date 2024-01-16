@@ -1,8 +1,24 @@
 # Real-Time Project
 
-This is the "Real-Time" project, a Java-based application. The application is a simple real-time application that displays the current time. The application is built using Java and Maven.
+## Overview
+
+<table>
+  <tr>
+    <td>
+      <img src=./Logo.png width=200px />
+    </td>
+    <td>
+      <p>This is the "Real-Time" project, a Java-based application. The application is a simple real-time application that displays the current time. The application is built using Java and Maven.
+      </p>
+    </td>
+  </tr>
+</table>
+
+--- 
 
 <img src="https://drive.google.com/uc?export=view&id=1ftgqaegFSdgj86hUJP0pATaG34S4d-Rs" width="280" >   
+
+---
 
 ## Project Structure
 
@@ -54,7 +70,3 @@ You can contribute to this project by submitting issues or pull requests.
 
 ## License
 This project is licensed under the MIT License.
-
-
-## Additional Information
-This README provides a basic overview, instructions for getting started, and other common sections. You may need to adjust or expand upon it based on more specific details of the project or any additional requirements.
