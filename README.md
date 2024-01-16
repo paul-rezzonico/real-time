@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src=./Logo.png width=200px />
+      <img src=./logo.png width=200px />
     </td>
     <td>
       <p>This is the "Real-Time" project, a Java-based application. The application is a simple real-time application that displays the current time. The application is built using Java and Maven.
